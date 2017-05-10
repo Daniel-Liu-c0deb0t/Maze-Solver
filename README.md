@@ -8,11 +8,15 @@
 3. Click solve to solve the maze.
 
 's' marks the start on the maze
+
 'e' marks the end on the maze
+
 '#' (hash or number sign) is a wall
+
 '.' (period or dot) is an empty space that can be traversed
 
 Note 1: '+' (plus sign), '-' (minus sign or dash), and '|' (pipe) marks the path that is found.
+
 Note 2: the program supports irregularly shaped mazes (see 2nd sample maze) and will automatically place walls to fill in the empty spots.
 
 #### About the Code:
