@@ -1,4 +1,4 @@
-# Maze-Solver
+# Maze Solver
 ### 2D grid-based maze solver that is written in Java. Uses Swing for GUI and contains 8 different methods for solving mazes.
 
 
@@ -27,7 +27,7 @@ Note 2: the program supports irregularly shaped mazes (see 2nd sample maze) and 
 #### About the Code:
 
 
-MazeSolverGui.java contains the GUI code. It calls functions in MazeSolver.java that does the actual solving. Point.java is a wrapper for 2 integers (row and column). SampleMazes.txt contains 2 sample mazes.
+MazeSolverGui.java contains the GUI code. It calls functions in MazeSolver.java that do the actual solving. Point.java is a wrapper for 2 integers (row and column). SampleMazes.txt contains 2 sample mazes.
 
 
 #### 2 Sample Mazes:
