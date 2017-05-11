@@ -5,6 +5,7 @@
 #### How to Use:
 
 
+1. Download and run MazeSolver.jar
 1. Choose a method for solving the maze. There are eight: BFS, DFS, Best-First BFS, Dijkstra's, Bellman-Ford, Floyd-Warshall, A\*, and simulate hand on right wall.
 2. Input a maze that is properly formatted.
 3. Click solve to solve the maze.
